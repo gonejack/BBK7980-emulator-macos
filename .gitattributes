@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.c text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.png binary
+*.gz binary
+*.icns binary
+*.dylib binary
+vendor/fonts/*.txt -whitespace

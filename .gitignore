@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+.idea/
+.DS_Store
+build/
+dist/
+runtime/
+data/
+*.dylib
+*.dll
+*.exe
+*.bin
+*.bin.z
+*.upg
+*.zip
+*.log
